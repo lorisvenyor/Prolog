@@ -1,2 +1,4 @@
 # CA208-Logic
-Prolog Assignment
+
+Second Year Computer Applications and Software Engineering Individual Assignment on Prolog
+
