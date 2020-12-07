@@ -71,4 +71,3 @@ journey(S, D, M) :- quickestroute(S, D, AllRoutes, M, Time), !,
     write("Quickest Journey: "), write(String),
     write("\n"), 
     write("Time: "), write(Time), write(" hrs").
-
