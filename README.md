@@ -1,5 +1,3 @@
-# CA208-Logic
-
 Second Year Computer Applications and Software Engineering Individual Assignment on Prolog
 
 A map is described by a series of facts of the form route(Src,Dest, Distance, Modes) where predicate route defines a route between Src and Dest. The has length Distance. The route has several Modes by which it can be travelled. Modes is a string that represented the available modes of travel. If Modes contains f it can be travelled by foot, if Modes contains c it can be travelled by car, if Modes contains t it can be travelled by train, and if Modes contains p it can be travelled by plane. The average speed for each mode of travel is:
